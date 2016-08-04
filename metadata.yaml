@@ -1,0 +1,29 @@
+_repo: Bergson-and-His-Philosophy_5717
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gunn, John Alexander
+    birthdate: 1896
+    deathdate: 1975
+    gutenberg_agent_id: '1746'
+    url: http://www.gutenberg.org/2009/agents/1746
+description: French philosopher Henri Bergson was one of the most significant thinkers
+  of the twentieth century. He is best remembered for making the argument that intuitive
+  feelings often hold more weight than rational decision-making. In this incisive
+  volume, fellow philosopher John Alexander Gunn presents an introduction to and thoughtful
+  analysis of Bergson''s contributions.
+gutenberg_bookshelf: Philosophy
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5717'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bergson, Henri, 1859-1941'
+- !lcc 'B'
+- GITenberg
+title: Bergson and His Philosophy
+url: http://www.gutenberg.org/ebooks/5717
