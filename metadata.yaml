@@ -1,5 +1,8 @@
 _repo: Bergson-and-His-Philosophy_5717
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Gunn, John Alexander
@@ -12,6 +15,8 @@ description: French philosopher Henri Bergson was one of the most significant th
   feelings often hold more weight than rational decision-making. In this incisive
   volume, fellow philosopher John Alexander Gunn presents an introduction to and thoughtful
   analysis of Bergson''s contributions.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5717#Bergson-and-His-Philosophy
 gutenberg_bookshelf: Philosophy
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
